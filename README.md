@@ -6,13 +6,17 @@ To design a wire frame for a website.
 ## DESIGN STEPS:
 
 ### Step 1:
-Write your design steps here 
-
+The design is done using Pencil project application.
 ### Step 2:
-Write your design steps here
+The layout of the website is done using "Desktop sketchy GUI".
 
 ## OUTPUT:
-include your output screenshots 
+## Homepage:
+![gitlogo](1.jpg)
+## Aboutus Page:
+![gitlogo](2.jpg)
+## Training Page:
+![gitlogo](3.jpg)
 
 
 ## Result:
